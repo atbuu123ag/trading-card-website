@@ -1,0 +1,5 @@
+{"user_id":1,"name":"Quoc Buu","address":"a","phone":"12312312","items":[{"id":1,"name":"Blue-Eyes White Dragon","price":"29.99","qty":1},{"id":4,"name":"Rahu Dragon Tail","price":"15.99","qty":1}],"total":45.98,"date":"2025-08-04 03:04:14"}
+{"user_id":1,"name":"buu","address":"Can Tho","phone":"0643332521","items":[{"id":4,"name":"Rahu Dragon Tail","price":"15.99","qty":1}],"total":15.99,"date":"2025-08-04 05:19:07"}
+{"user_id":1,"name":"buu","address":"Can Tho","phone":"0643332521","items":[{"id":4,"name":"Rahu Dragon Tail","price":"15.99","qty":4},{"id":6,"name":"Uzuhime the Manifested Mikanko","price":"35.99","qty":1}],"total":99.95,"date":"2025-08-08 20:06:37"}
+{"user_id":1,"name":"buu","address":"Can Tho","phone":"0643332521","items":[{"id":5,"name":"Exosister Sophia","price":"25.99","qty":1}],"total":25.99,"date":"2025-08-08 20:10:59"}
+{"user_id":1,"name":"buu","address":"Can Tho","phone":"0643332521","items":[{"id":5,"name":"Exosister Sophia","price":"25.99","qty":1}],"total":25.99,"date":"2025-08-08 20:11:24"}
